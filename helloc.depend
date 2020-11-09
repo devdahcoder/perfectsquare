@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604928574 source:c:\users\olamide\documents\helloc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
